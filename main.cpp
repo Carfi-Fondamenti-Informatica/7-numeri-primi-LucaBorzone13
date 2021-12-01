@@ -8,10 +8,10 @@ bool primo (int x){
         if(x%i==0){
 
             return false;
-        }else return true;
+        }
+
     }
-
-
+    return true;
 
 }
 
